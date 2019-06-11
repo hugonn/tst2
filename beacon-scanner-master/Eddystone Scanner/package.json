@@ -1,0 +1,18 @@
+{
+  "name": "scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "json2csv": "^4.3.4",
+    "noble": "^1.9.1",
+    "bleno": "^0.5.0",
+    "eddystone-url-encoding": "^1.0.1"
+  }
+}
